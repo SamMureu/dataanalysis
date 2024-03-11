@@ -7,7 +7,7 @@
 - [Tools](tools)
 - [Data Visualization](data-visualization)
 - [Limitation](limitation)
-  
+
 ### Project Overview
 The primary goal of this project is to conduct a comprehensive analysis of drug and substance abuse patterns, trends, and associated factors. By leveraging data-driven insights, the project aims to contribute to the understanding of substance abuse, facilitate informed decision-making, and guide the development of targeted intervention strategies.
 
@@ -23,6 +23,9 @@ The primary dataset used for this analysis is the "DRUG AND SUBSTANCE ABUSE..xls
 
   ### Data Visualization
   the interactive dashboards and comprehensive reports empower stakeholders with actionable strategies for prevention and support.
+  
+  ![#dashboard](https://github.com/SamMureu/dataanalysis/assets/84933401/dce131ac-ac33-4bc2-ac3f-edd869778c9d)
+
   
   ### Limitation
 - Missing Data: Incomplete or missing values in datasets that affected analysis and modeling accuracy.
