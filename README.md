@@ -22,7 +22,7 @@ The primary dataset used for this analysis is the "DRUG AND SUBSTANCE ABUSE..xls
 
 
   ### Data Visualization
-  the interactive dashboards and comprehensive reports empower stakeholders with actionable strategies for prevention and support.
+  The interactive dashboards and comprehensive reports empower stakeholders with actionable strategies for prevention and support.
   
   ![#dashboard](https://github.com/SamMureu/dataanalysis/assets/84933401/dce131ac-ac33-4bc2-ac3f-edd869778c9d)
 
