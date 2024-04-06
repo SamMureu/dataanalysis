@@ -21,7 +21,7 @@ The primary dataset used for this analysis is the "DRUG AND SUBSTANCE ABUSE..xls
 - 💾 SQL: Delved into the data's core, extracting meaningful patterns and trends to fuel strategic decision-making. 🕵️‍♂️🔍
 
 
-  ### Data Visualization
+  ### Data Visualization.
   The interactive dashboards and comprehensive reports empower stakeholders with actionable strategies for prevention and support.
   
   ![#dashboard](https://github.com/SamMureu/dataanalysis/assets/84933401/dce131ac-ac33-4bc2-ac3f-edd869778c9d)
